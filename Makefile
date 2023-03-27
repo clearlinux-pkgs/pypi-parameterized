@@ -1,5 +1,5 @@
 PKG_NAME := pypi-parameterized
-URL = https://files.pythonhosted.org/packages/c6/23/2288f308d238b4f261c039cafcd650435d624de97c6ffc903f06ea8af50f/parameterized-0.8.1.tar.gz
+URL = https://files.pythonhosted.org/packages/ea/49/00c0c0cc24ff4266025a53e41336b79adaa5a4ebfad214f433d623f9865e/parameterized-0.9.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
